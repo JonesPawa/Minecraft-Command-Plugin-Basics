@@ -1,0 +1,14 @@
+name: Command Plugin Overview
+version: ${project.version}
+main: net.aoyoa.commandpluginoverview.CommandPluginOverview
+api-version: 1.16
+authors: [ JonesPawa ]
+description: Command Plugin Overview
+website: aoyoa.net
+commands:
+  start:
+    description: start the plugin
+    usage: /<command>
+  end:
+    description: end the plugin
+    usage: /<command>
